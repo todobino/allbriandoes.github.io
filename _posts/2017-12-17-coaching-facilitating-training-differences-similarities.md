@@ -1,4 +1,5 @@
 ---
+layout: post
 title:       "Coaching, Facilitating, & Training: Differences & Similarities"
 date:        2017-12-17
 tags:

@@ -1,4 +1,5 @@
 ---
+layout: post
 title:       "Linearity & Non-Linearity & CI"
 date:        2017-12-26
 tags:

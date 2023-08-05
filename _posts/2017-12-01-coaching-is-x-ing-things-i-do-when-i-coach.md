@@ -1,4 +1,5 @@
 ---
+layout: post
 title:       "Coaching is X-ing: Things I Do When I Coach"
 date:        2017-12-01
 tags:

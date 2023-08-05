@@ -1,4 +1,5 @@
 ---
+layout: post
 title:       "Coaching As Improv: More On Saying Yes"
 date:        2017-12-16
 tags:

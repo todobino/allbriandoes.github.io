@@ -1,4 +1,5 @@
 ---
+layout: post
 title:       "Why They Don't: Reasons People Won't Try Something New"
 date:        2017-12-18
 tags:

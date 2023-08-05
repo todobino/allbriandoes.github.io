@@ -1,4 +1,5 @@
 ---
+layout: post
 title:       "Not Trying & The Fabric Of Coaching"
 date:        2017-12-19
 tags:

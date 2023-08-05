@@ -1,4 +1,5 @@
 ---
+layout: post
 title:       "Non-Linearity & The Thinking Knee: More On Fundamentals Of Agility"
 date:        2017-12-30
 tags:

@@ -1,4 +1,5 @@
 ---
+layout: post
 title:       "Some Problem-Patterns I Look For"
 date:        2017-12-27
 tags:

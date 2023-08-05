@@ -1,4 +1,5 @@
 ---
+layout: post
 title:       "Sprints vs Pure Pull: GeePaw Takes A Stand"
 date:        2017-12-23
 tags:

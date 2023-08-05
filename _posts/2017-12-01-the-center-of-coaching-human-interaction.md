@@ -1,4 +1,5 @@
 ---
+layout: post
 title:       "The Center of Coaching: Human Interaction"
 date:        2017-12-01
 tags:
