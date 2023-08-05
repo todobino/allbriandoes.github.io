@@ -1,4 +1,5 @@
 ---
+layout: post
 title:       "A Brief Rant On Forcing People"
 date:        2017-12-13
 tags:
